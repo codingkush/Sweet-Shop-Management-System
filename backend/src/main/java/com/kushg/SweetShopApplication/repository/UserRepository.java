@@ -1,0 +1,4 @@
+package com.kushg.SweetShopApplication.repository;
+
+public class UserRepository {
+}
